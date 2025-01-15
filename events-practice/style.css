@@ -46,7 +46,7 @@ body {
     border-radius: 10px;
     cursor: pointer;
     transform: translateY(0);
-    transition: transform 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 .event-btn:hover, .event-btn-2:hover {
     background: black;
