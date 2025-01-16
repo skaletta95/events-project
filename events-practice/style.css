@@ -4,6 +4,7 @@
     padding: 0;
 }
 body {
+    padding: 3rem 2rem ;
     height: 70vh;
     text-align: center;
     display: flex;
@@ -63,5 +64,8 @@ body {
 @media (max-width: 768px) {
     body {
         height: auto;
+    }
+    .title {
+        font-size: 3rem;
     }
 }
